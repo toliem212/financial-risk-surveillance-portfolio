@@ -4,7 +4,7 @@
 
 Portfolio project của **Tô Thanh Liêm** · GitHub **@toliem212**
 
-> **Live application:** sẽ bổ sung URL sau khi bản triển khai từ repository PRIVATE được đưa lên môi trường chạy chính thức.
+> **Live application:** https://financial-risk-surveillance.onrender.com
 
 ## Tổng quan
 
@@ -56,8 +56,8 @@ Implementation chi tiết, crawler, schema SQL, Risk Engine và deployment secre
 ## Nguồn dữ liệu
 
 - **NHNN**: dữ liệu và thông tin điều hành liên quan tới tỷ giá, tiền tệ và thanh khoản khi nguồn công khai cho phép.
-- **HNX / HNX CBIS**: dữ liệu TPCP và trái phiếu doanh nghiệp/tổ chức phát hành theo phạm vi công khai.
-- **VIRA**: dữ liệu tham chiếu thị trường được sử dụng có kiểm soát nguồn và thời điểm quan sát.
+- **HNX / HNX CBIS**: dữ liệu TPCP và trái phiếu doanh nghiệp/tổ chức phát hành trong phạm vi portal công khai.
+- **VIRA**: dữ liệu tham chiếu thị trường được sử dụng cùng metadata nguồn và ngày quan sát.
 - **User-provided portfolio data**: CSV/Excel/Parquet hoặc nguồn cơ sở dữ liệu đã cấu hình.
 - **Demo portfolio**: dữ liệu mô phỏng để trình diễn nghiệp vụ; luôn được phân biệt với dữ liệu thị trường bên ngoài.
 
